@@ -65,7 +65,7 @@ TG_VIDEO_FILESIZE_LIMIT = int(getenv("TG_VIDEO_FILESIZE_LIMIT", 3221225472))
 
 
 # Get your pyrogram v2 session from @StringFatherBot on Telegram
-STRING1 = getenv("STRING_SESSION", AgCqQv7ajablJYlexNyCtCoFDFgjabVuJlPxZWGe5fciyg5X1Q7568P5kc3NAnO8gLmbyqWndX8g5bzTmopKH-6wtsZu4dwH5vYFeZ94iK8Hu3kc9MbtxrR4wfrm4Ks-U7OlYFrVDKyYUNqSlatXCY5GKzwq3qsQ6-YnIJ5XshsS0Jv6hukbeA_4BrEOZIyjo97AbfjvrxDWZnJ4w1paxiIUurAMM41CIJVK-dd-6HTxmOHudMoHOo9m4qq-Yy74iiTIU0m4msvlY7YlcmVAA2JQ81JyaJhwxv1XQPhvr-aUsordeqryT2vaiCAZ_rA2peG-9HJttqyAr2QeAt6eZTAAAAAc2wA6oA)
+STRING1 = getenv("STRING_SESSION", "AgCqQv7ajablJYlexNyCtCoFDFgjabVuJlPxZWGe5fciyg5X1Q7568P5kc3NAnO8gLmbyqWndX8g5bzTmopKH-6wtsZu4dwH5vYFeZ94iK8Hu3kc9MbtxrR4wfrm4Ks-U7OlYFrVDKyYUNqSlatXCY5GKzwq3qsQ6-YnIJ5XshsS0Jv6hukbeA_4BrEOZIyjo97AbfjvrxDWZnJ4w1paxiIUurAMM41CIJVK-dd-6HTxmOHudMoHOo9m4qq-Yy74iiTIU0m4msvlY7YlcmVAA2JQ81JyaJhwxv1XQPhvr-aUsordeqryT2vaiCAZ_rA2peG-9HJttqyAr2QeAt6eZTAAAAAc2wA6oA")
 STRING2 = getenv("STRING_SESSION2", None)
 STRING3 = getenv("STRING_SESSION3", None)
 STRING4 = getenv("STRING_SESSION4", None)
